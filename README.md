@@ -1,7 +1,5 @@
-| Header 1 | Header 2 |
-|---|---|
-| Content 1 | Content 2 |
-| ![My Image](./Dashboard.png) | More Content |
+
+| ![My Image](./Dashboard.png) |
 
 | 💡 Feature | 🔍 Description |
 |-----------|----------------|
