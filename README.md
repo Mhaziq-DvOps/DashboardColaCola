@@ -1,3 +1,8 @@
+| Header 1 | Header 2 |
+|---|---|
+| Content 1 | Content 2 |
+| ![My Image](./images/my_image.png) | More Content |
+
 🤔 A Q&A visual allows users to query datasets easily, making dashboards more interactive and informative.
 📊 The key influencers visual helps understand factors affecting metrics like operating profit by analyzing relationships within the data.
  🗺️ Utilizing map charts to visualize sales by state enhances geographical data representation and interaction.
